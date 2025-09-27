@@ -1,4 +1,4 @@
-# Onboarding Emails from Google Sheets (Apps Script)
+# Tailored Onboarding Emails (aka Email Mail Merge) from Google Sheets (Apps Script)
 
 This repository contains a single Google Apps Script that reads rows from a Google Sheet and sends a personalized onboarding email to each person who has not yet been emailed. When it sends the email, it writes a timestamp back to the `SentOn` column so it won't re-send.
 
