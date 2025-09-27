@@ -7,7 +7,7 @@ This repository contains a single Google Apps Script that reads rows from a Goog
 | Firstname | Lastname | Jobtitle   | Locationgroup | Email                          | SentOn |
 |-----------|----------|------------|---------------|--------------------------------|--------|
 | Susan     | McGill   | Accountant | 1             | someone1@outlook.com   |        |
-| Jessie    | Addison  | Analyst    | 1             | whatever@example.com           |        |
+| Jessie    | Addison  | Analyst    | 2             | whatever@example.com           |        |
 
 The script maps `Locationgroup` → a location name:
 - `1` → **Bombay**
