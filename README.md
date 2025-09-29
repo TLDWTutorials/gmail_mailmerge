@@ -1,5 +1,7 @@
 # Tailored Onboarding Emails (aka Email Mail Merge) from Google Sheets (Apps Script)
 
+**Note: if you just want to test out the code and haven't wrote code before, click on the `sendOnboardingEmails.gs` file to get the code and copy and paste this into Google Apps Script.**
+
 This repository contains a single Google Apps Script that reads rows from a Google Sheet and sends a personalized onboarding email to each person who has not yet been emailed. When it sends the email, it writes a timestamp back to the `SentOn` column so it won't re-send.
 
 ## Sample Sheet layout
